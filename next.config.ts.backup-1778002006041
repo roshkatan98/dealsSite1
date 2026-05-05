@@ -1,0 +1,16 @@
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  output: 'export',
+  distDir: 'dist',
+  assetPrefix: '/newsiteoptionnumber2',
+  basePath: '/newsiteoptionnumber2',
+  images: {
+    unoptimized: true,
+  },
+  turbopack: {
+    root: '/home/admin/Loxia/deals-site'
+  }
+};
+
+export default nextConfig;

@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "דף הבית",
+    "deals": "מבצעים",
+    "categories": "קטגוריות",
+    "search": "חיפוש",
+    "language": "שפה"
+  },
+  "hero": {
+    "title": "הדילים הטובים ביותר רק עבורך",
+    "subtitle": "גלה מבצעים מדהימים, השווה מחירים וחסוך כסף בכל קניה",
+    "searchPlaceholder": "חפש מוצרים, מותגים, קטגוריות...",
+    "searchButton": "חפש"
+  },
+  "categories": {
+    "title": "קטגוריות פופולריות",
+    "electronics": "אלקטרוניקה",
+    "fashion": "אופנה",
+    "home": "בית וגן",
+    "sports": "ספורט",
+    "beauty": "טיפוח",
+    "toys": "צעצועים",
+    "books": "ספרים",
+    "automotive": "רכב"
+  },
+  "filters": {
+    "title": "סינון",
+    "priceRange": "טווח מחירים",
+    "category": "קטגוריה",
+    "rating": "דירוג",
+    "discount": "הנחה",
+    "sortBy": "מיון לפי",
+    "sortPriceLow": "מחיר: נמוך לגבוה",
+    "sortPriceHigh": "מחיר: גבוה לנמוך",
+    "sortRating": "דירוג גבוה",
+    "sortDiscount": "הנחה גדולה",
+    "clearFilters": "נקה סינון"
+  },
+  "products": {
+    "featuredDeals": "דילים נבחרים",
+    "viewAll": "הצג הכל",
+    "originalPrice": "מחיר מקורי",
+    "discount": "הנחה",
+    "buyNow": "קנה עכשיו",
+    "viewDetails": "פרטים",
+    "inStock": "במלאי",
+    "outOfStock": "אזל מהמלאי",
+    "reviews": "ביקורות",
+    "addToCart": "הוסף לעגלה"
+  },
+  "product": {
+    "description": "תיאור המוצר",
+    "specifications": "מפרט טכני",
+    "reviews": "ביקורות",
+    "relatedProducts": "מוצרים דומים",
+    "backToDeals": "חזרה לדילים",
+    "share": "שתף",
+    "save": "שמור"
+  },
+  "footer": {
+    "about": "אודות",
+    "contact": "צור קשר",
+    "terms": "תנאי שימוש",
+    "privacy": "מדיניות פרטיות",
+    "rights": "כל הזכויות שמורות"
+  }
+}

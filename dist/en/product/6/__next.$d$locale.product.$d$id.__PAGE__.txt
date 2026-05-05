@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"6","title":"מצלמת אבטחה WiFi","titleEn":"WiFi Security Camera","description":"מצלמת אבטחה אלחוטית עם ראיית לילה, זיהוי תנועה חכם, אודיו דו-כיווני ואחסון ענן. רזולוציה 2K.","descriptionEn":"Wireless security camera with night vision, smart motion detection, two-way audio and cloud storage. 2K resolution.","price":149,"originalPrice":329,"image":"https://images.unsplash.com/photo-1557324232-b8917d3c3dcb?w=400&h=400&fit=crop","category":"electronics","categoryEn":"Electronics","rating":4.4,"reviews":1234,"discount":55,"inStock":true}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

@@ -1,0 +1,67 @@
+{
+  "nav": {
+    "home": "Home",
+    "deals": "Deals",
+    "categories": "Categories",
+    "search": "Search",
+    "language": "Language"
+  },
+  "hero": {
+    "title": "The Best Deals Just for You",
+    "subtitle": "Discover amazing deals, compare prices and save money on every purchase",
+    "searchPlaceholder": "Search products, brands, categories...",
+    "searchButton": "Search"
+  },
+  "categories": {
+    "title": "Popular Categories",
+    "electronics": "Electronics",
+    "fashion": "Fashion",
+    "home": "Home & Garden",
+    "sports": "Sports",
+    "beauty": "Beauty",
+    "toys": "Toys",
+    "books": "Books",
+    "automotive": "Automotive"
+  },
+  "filters": {
+    "title": "Filters",
+    "priceRange": "Price Range",
+    "category": "Category",
+    "rating": "Rating",
+    "discount": "Discount",
+    "sortBy": "Sort By",
+    "sortPriceLow": "Price: Low to High",
+    "sortPriceHigh": "Price: High to Low",
+    "sortRating": "Top Rated",
+    "sortDiscount": "Biggest Discount",
+    "clearFilters": "Clear Filters"
+  },
+  "products": {
+    "featuredDeals": "Featured Deals",
+    "viewAll": "View All",
+    "originalPrice": "Original Price",
+    "discount": "Discount",
+    "buyNow": "Buy Now",
+    "viewDetails": "Details",
+    "inStock": "In Stock",
+    "outOfStock": "Out of Stock",
+    "reviews": "Reviews",
+    "addToCart": "Add to Cart"
+  },
+  "product": {
+    "description": "Product Description",
+    "specifications": "Specifications",
+    "reviews": "Reviews",
+    "relatedProducts": "Related Products",
+    "backToDeals": "Back to Deals",
+    "share": "Share",
+    "save": "Save"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms of Use",
+    "privacy": "Privacy Policy",
+    "rights": "All rights reserved"
+  }
+}

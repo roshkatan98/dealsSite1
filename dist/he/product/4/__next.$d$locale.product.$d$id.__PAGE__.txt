@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"4","title":"מזוודה חכמה קשיחה","titleEn":"Smart Hard Shell Suitcase","description":"מזוודת פוליקרבונט קשיחה עם מנעול טרולי, מטען USB מובנה וגלגלים שקטים 360 מעלות. גודל 28 אינץ'.","descriptionEn":"Hard shell polycarbonate suitcase with TSA lock, built-in USB charger and 360-degree silent wheels. 28 inch size.","price":279,"originalPrice":599,"image":"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=400&h=400&fit=crop","category":"fashion","categoryEn":"Fashion","rating":4.5,"reviews":654,"discount":53,"inStock":true}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

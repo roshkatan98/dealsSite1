@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"8","title":"מנורת שולחן LED חכמה","titleEn":"Smart LED Desk Lamp","description":"מנורת שולחן חכמה עם שליטה בגוון ובעוצמה, טעינה אלחוטית מובנית וחיישן אור סביבתי. עיצוב מינימליסטי.","descriptionEn":"Smart desk lamp with color and brightness control, built-in wireless charging and ambient light sensor. Minimalist design.","price":89,"originalPrice":199,"image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=400&h=400&fit=crop","category":"home","categoryEn":"Home & Garden","rating":4.3,"reviews":543,"discount":55,"inStock":true}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

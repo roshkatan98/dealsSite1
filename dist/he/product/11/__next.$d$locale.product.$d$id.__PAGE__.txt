@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"11","title":"מצעי כותנה מצרית פרימיום","titleEn":"Premium Egyptian Cotton Sheets","description":"מצעי כותנה מצרית 100% אורגנית, צפיפות 1000 חוטים. סט מלא הכולל סדין, ציפה ו-2 ציפיות.","descriptionEn":"100% organic Egyptian cotton sheets, 1000 thread count. Full set including fitted sheet, duvet cover and 2 pillowcases.","price":229,"originalPrice":499,"image":"https://images.unsplash.com/photo-1631679706909-1844bbd07221?w=400&h=400&fit=crop","category":"home","categoryEn":"Home & Garden","rating":4.8,"reviews":432,"discount":54,"inStock":true}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

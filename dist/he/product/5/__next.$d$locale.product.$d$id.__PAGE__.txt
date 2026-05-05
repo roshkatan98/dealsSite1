@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"5","title":"רובוט שואב אבק חכם","titleEn":"Smart Robot Vacuum","description":"רובוט שואב אבק עם מיפוי לייזר, ניווט חכם, שטיפה רטובה ותמיכה בקול של אלקסה וגוגל הום.","descriptionEn":"Robot vacuum with laser mapping, smart navigation, wet mopping and Alexa & Google Home voice support.","price":899,"originalPrice":1799,"image":"https://images.unsplash.com/photo-1589820296156-2454bb8a6d54?w=400&h=400&fit=crop","category":"home","categoryEn":"Home & Garden","rating":4.7,"reviews":3421,"discount":50,"inStock":true,"badge":"מומלץ","badgeEn":"Recommended"}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

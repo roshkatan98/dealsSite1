@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"1","title":"אוזניות אלחוטיות פרימיום","titleEn":"Premium Wireless Earbuds","description":"אוזניות אלחוטיות עם סינון רעשים אקטיבי, סאונד מקצועי וסוללה ל-30 שעות. כולל תמיכה בבלוטות' 5.3 וטעינה אלחוטית.","descriptionEn":"Wireless earbuds with active noise cancellation, professional sound quality and 30-hour battery. Includes Bluetooth 5.3 and wireless charging support.","price":199,"originalPrice":449,"image":"https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=400&h=400&fit=crop","category":"electronics","categoryEn":"Electronics","rating":4.8,"reviews":2341,"discount":56,"inStock":true,"badge":"מבצע חם","badgeEn":"Hot Deal"}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null

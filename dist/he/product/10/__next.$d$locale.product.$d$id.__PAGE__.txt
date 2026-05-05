@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[23036,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js","/_next/static/chunks/031ga534xucfo.js","/_next/static/chunks/0ibptoe~xg5kk.js","/_next/static/chunks/00k6jwj35jgz5.js"],"default"]
+3:I[97367,["/_next/static/chunks/01xlw8hd842-c.js","/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"product":{"id":"10","title":"טאבלט 10 אינץ' פרו","titleEn":"10-inch Pro Tablet","description":"טאבלט 10 אינץ' עם מסך 2K, מעבד 8 ליבות, 6GB RAM ו-128GB אחסון. כולל עט סטיילוס ומקלדת נשלפת.","descriptionEn":"10-inch tablet with 2K display, octa-core processor, 6GB RAM and 128GB storage. Includes stylus pen and detachable keyboard.","price":599,"originalPrice":1199,"image":"https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=400&fit=crop","category":"electronics","categoryEn":"Electronics","rating":4.5,"reviews":1567,"discount":50,"inStock":true,"badge":"חדש","badgeEn":"New"}}],[["$","script","script-0",{"src":"/_next/static/chunks/00k6jwj35jgz5.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"2hQ7PkUcKgSO1T7C55SzZ"}
+5:null
