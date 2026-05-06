@@ -1,6 +1,5 @@
 import { NextIntlClientProvider } from 'next-intl';
 import { getMessages } from 'next-intl/server';
-import { notFound } from 'next/navigation';
 import { locales } from '@/lib/i18n';
 import Header from '@/components/Header';
 import Footer from '@/components/Footer';
@@ -25,6 +24,9 @@ export default async function LocaleLayout({
     <html lang={validLocale} dir={validLocale === 'he' ? 'rtl' : 'ltr'}>
       <body className="min-h-screen bg-white antialiased">
         <NextIntlClientProvider messages={messages} locale={locale}>
+          <div className="w-full bg-lime-400 text-black text-center font-extrabold tracking-wide py-3 text-sm md:text-base border-b-4 border-black">
+            SMART HOME FINDS - NEW VERSION
+          </div>
           <Header />
           <main>{children}</main>
           <Footer />

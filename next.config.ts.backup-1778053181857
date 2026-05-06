@@ -1,0 +1,19 @@
+import type { NextConfig } from "next";
+import createNextIntlPlugin from 'next-intl/plugin';
+
+const isProd = process.env.NODE_ENV === 'production';
+const basePath = isProd ? '/dealssite3' : '';
+
+const nextConfig: NextConfig = {
+  output: 'export',
+  distDir: 'dist',
+  basePath,
+  assetPrefix: basePath || undefined,
+  images: {
+    unoptimized: true,
+  },
+  trailingSlash: true,
+};
+
+const withNextIntl = createNextIntlPlugin();
+export default withNextIntl(nextConfig);
